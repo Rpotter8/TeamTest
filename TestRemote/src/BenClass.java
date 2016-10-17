@@ -4,4 +4,8 @@ public class BenClass {
 		System.out.println("Stop calling me");
 		
 	}
+	public void stop1() {
+		System.out.println("Stop calling me");
+		
+	}
 }
